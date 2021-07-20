@@ -1,7 +1,9 @@
-# pizza-app-node-express-ejs-stripe-socket  Thanks for a great tutorial by codersgyan.
+# pizza-app-node-express-ejs-stripe-socket  
+
+### Thanks for a great tutorial by codersgyan.
 A pizza app using Node Express EJS Stripe Socket
 
-
+```
 [+] Create directory structure
 [+] Create a NPM project and install all dependancies
     - Dependancies
@@ -48,3 +50,4 @@ A pizza app using Node Express EJS Stripe Socket
         - dependancies socket.io
 [ ] Build project for deployment
 [ ] Deploy project on live server
+```
